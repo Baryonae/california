@@ -1,0 +1,55 @@
+.form-container{
+    margin-top: 200px;
+    
+}
+
+.title{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #E0DCDC;
+}
+.description{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #E0DCDC;
+}
+.url{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #E0DCDC;
+}
+
+.keyword{
+    height: 30px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #E0DCDC;
+}
+
+.submit{
+    width: 200px;
+    height: 35px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-color: aquamarine;
+}
+.submit:hover{
+    animation: fadeIn 2s;
+    width: 200px;
+    height: 35px;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: aquamarine;
+}
+
+@keyframes fadeIn {
+    
+  }
+  
