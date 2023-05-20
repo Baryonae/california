@@ -1,5 +1,5 @@
 # california
-This is a search engine API kind of which is only made of PHP and MySQL 
+This is a search engine which is only made of PHP and MySQL 
 Wont go to much details, this is one of the first projects i did on this language
 despite the first big project
 
